@@ -139,6 +139,10 @@
     margin-left: calc( 100% / 12);
 }
 
+.offset-xs-0 {
+    margin-left: 0;
+}
+
 
 /* TABLET  (md) 768px */
 
@@ -215,6 +219,9 @@
     }
     .offset-md-1 {
         margin-left: calc( 100% / 12);
+    }
+    .offset-md-0 {
+        margin-left: 0;
     }
 }
 
