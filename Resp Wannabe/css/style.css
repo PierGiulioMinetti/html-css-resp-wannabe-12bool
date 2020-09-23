@@ -1,0 +1,37 @@
+[class*='col-'] {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+}
+
+p {
+    margin: 15px;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.col-lg-12 p {
+    margin-bottom: 40px;
+}
+
+.blue {
+    border-radius: 50%;
+    background-color: rgb(42, 154, 230);
+    -webkit-box-shadow: -1px 3px 0px 13px rgb(42, 154, 230));
+    -moz-box-shadow: -1px 3px 0px 13px rgb(42, 154, 230));
+    box-shadow: -1px 3px 0px 13px rgb(42, 154, 230));
+}
+
+hr {
+    margin: 0 0 30px 0;
+}
